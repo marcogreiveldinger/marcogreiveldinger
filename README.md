@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hello@techwithmarco.com**
 
+- 📌 Check out my pinned **repositories**:
+  - [videos](https://github.com/marcogreiveldinger/videos)
+  - [.dotfiles](https://github.com/marcogreiveldinger/.dotfiles)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
